@@ -340,7 +340,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - **GitHub Issues:** [Report bugs here](https://github.com/video-transcription-system/issues)
 - **Email:** Satyakuamrtsk@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/trilochana-satya-kumar-kottapalli/)
 
 ---
 
